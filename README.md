@@ -28,25 +28,32 @@ This repository contains a basic Python script for reconnaissance and informatio
    ```bash
    pip install scapy treepoem passwordgenerator phonenumbers nmap pyfiglet requests
 Clone the repository:
-Bash
-git clone <repository_url>
+   git clone https://github.com/Gaurav909565/Recon_automation.git
 Use code with caution.
 
 Usage:
 
-Run the script: python recon_tool.py
-Select the desired option from the menu.
-Follow the on-screen instructions to provide necessary input.
+  1. Run the script:
+     ```Bash
+     python recon_tool.py
+  2. Select the desired option from the menu.
+  3. Follow the on-screen instructions to provide necessary input.
+
+
 Disclaimer:
 
-This tool is for educational and ethical purposes only.
-The developer is not responsible for any misuse of this tool.
-Using this tool for illegal activities is strictly prohibited.
+  This tool is for educational and ethical purposes only.
+  The developer is not responsible for any misuse of this tool.
+  Using this tool for illegal activities is strictly prohibited.
+
+
 Note:
 
-This is a basic implementation and may have limitations.
-Consider adding more features and improving the user interface for a more robust tool.
-Always prioritize security and ethical considerations when conducting any form of security testing or reconnaissance.
+  This is a basic implementation and may have limitations.
+  Consider adding more features and improving the user interface for a more robust tool.
+  Always prioritize security and ethical considerations when conducting any form of security testing or reconnaissance.
+
+
 Contributing:
 
 Contributions are welcome! Feel free to submit pull requests or report issues on the GitHub repository.
