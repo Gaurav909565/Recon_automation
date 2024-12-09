@@ -1,0 +1,8 @@
+scapy
+treepoem
+passwordgenerator
+phonenumbers
+requests
+sockets
+python-nmap
+pyfiglet
